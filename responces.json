@@ -1,0 +1,32 @@
+{
+    "command_unknown": [
+        "This command doesn't exist"
+    ],
+    "command_error": [
+        "Something went wrong: ```{{error}}```"
+    ],
+    "command_cooldown": [
+        "Please wait `{{cooldown}}` second{{s}} before using this command again"
+    ],
+    "command_guild_only": [
+        "This command can only be used in a server"
+    ],
+    "command_dms_only": [
+        "This command can only be used in DMs"
+    ],
+    "command_owners_only": [
+        "Only bot owners can use this command"
+    ],
+    "command_blocked": [
+        "You are blocked from using this command"
+    ],
+    "command_no_permission": [
+        "You don't have permission to use this command"
+    ],
+    "command_no_bot_permission": [
+        "I don't have permission to use this command"
+    ],
+    "command_incorrect_usage": [
+        "Please use this command correctly: `{{usage}}`"
+    ]
+}
